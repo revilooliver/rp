@@ -1,5 +1,6 @@
 # Relaxed Peephole Optimization
 This repository contains artifacts and test files to reproduce experiments from the CGO 2021 paper "Relaxed Peephole Optimization: A Novel Compiler Optimization for Quantum Circuits" by Ji Liu, Luciano Bello, and Huiyang Zhou
+
 [![DOI](https://zenodo.org/badge/314322253.svg)](https://zenodo.org/badge/latestdoi/314322253)
 
 Use at your own risk! In no event shall the authors be liable for any damages whatsoever (including without limitation damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising from the use of or inability to use the software, even if the authors have been advised of the possibility of such damages.
